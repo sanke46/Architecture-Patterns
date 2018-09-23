@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Test app</string>
+
+    <string name="symbol">(-)</string>
+    <string name="name">Name:</string>
+    <string name="website_slug">Website slug:</string>
+    <string name="result">Result:</string>
+    <string name="Item_id">Item id :</string>
+</resources>
